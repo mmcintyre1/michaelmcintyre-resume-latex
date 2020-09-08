@@ -1,6 +1,6 @@
 # Michael McIntyre's Resume
 
-I have adapted this from the resume created by Harsh Gadgil [here] (https://github.com/opensorceror/Data-Engineer-Resume-LaTeX).
+I have adapted this from the resume created by Harsh Gadgil [here](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX).
 
 
 ## Installing pre-requisites (Windows)
